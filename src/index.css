@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border:1px solid black; 
+
 }
 .main1{
   display:flex;
@@ -24,7 +24,7 @@ img{
   height:60%;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  margin-bottom:35px;
+  margin-bottom:65px;
 
 }
 .list{
